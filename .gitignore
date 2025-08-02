@@ -131,3 +131,7 @@ works.md
 *.yaml
 
 analyze_processed_spikes.py 
+
+Wan2.2
+
+.gitignore
